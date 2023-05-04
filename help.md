@@ -28,5 +28,5 @@
     
   4. On the music page, you can turn on or off the mic of the device. And you can let the light change with the music rhythm by the mic of your phone.
   
-   ![home image](https://github.com/niteapps/ioled/blob/main/e6.jpg)
+   ![home image](https://github.com/niteapps/ioled/blob/main/en6.jpg)
 
